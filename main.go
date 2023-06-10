@@ -1,11 +1,11 @@
 /*
     ProxyChecker - Used to get active proxies from public sources.
 
-    Git: https://github.com/wildy238/ProxyChecker.git
+    Git: https://github.com/wildy283/ProxyChecker.git
 
     This project is licensed under the GNU Public License V3.
     
-    (C) Copyright 2023 - Wildy Sheverando [ Wildy238 ]
+    (C) Copyright 2023 - Wildy Sheverando [ Wildy283 ]
 */
 
 package main
